@@ -11,4 +11,4 @@ How-to:
 docker build -t php:test . 
 docker run -it -d --rm -p 3000:80 php:test 
 
-<host>:<container>
+host:container
